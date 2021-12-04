@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         BmiService service = new BmiService();
 //         Масса тела в кг
-        double mass = 82.60;
+        double mass = 82.40;
 //         Рост в метрах
         double height = 1.82;
 
